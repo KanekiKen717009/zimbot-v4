@@ -6,9 +6,9 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮blessedtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/@zim-bot
+//▮
+//▮WHATSAPP US : +201023246121
+//▮YOUTUBE CHANNELL:
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +17,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING ZIMBOT
-//┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IS FOR EVERYONE DONT SELL IT
+//┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IF YOU WANT IT IT COSTS 10 DOLLARS
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 process.on('uncaughtException', console.error)
